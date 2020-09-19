@@ -1,9 +1,9 @@
-   ,  ,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
-2014,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.283,207,1.245,188,204,16,22,0,0
-2015,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.290,205,1.239,173,210,37,14,0,0
-2016,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.303,213,1.252,161,197,34,17,0,0
-2017,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.342,206,1.282,187,209,44,16,0,0
-2018,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.360,217,1.302,198,221,44,14,0,0
+CO_ANO,LOCALIES,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
+2014,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1283,207,1245,188,204,16,22,0,0
+2015,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1290,205,1239,173,210,37,14,0,0
+2016,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1303,213,1252,161,197,34,17,0,0
+2017,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1342,206,1282,187,209,44,16,0,0
+2018,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1360,217,1302,198,221,44,14,0,0
 2014,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,442,113,379,53,98,28,34,1,0
 2015,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,454,109,357,62,94,67,30,0,0
 2016,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,454,96,341,67,91,84,28,1,0
@@ -14,11 +14,11 @@
 2016,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,407,86,343,51,87,32,31,1,0
 2017,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,416,92,369,52,88,27,20,0,0
 2018,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,435,97,377,54,89,27,28,3,0
-2014,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.479,403,1.204,90,323,96,176,3,0
-2015,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.569,359,1.293,97,318,168,104,4,0
-2016,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.662,337,1.299,121,298,238,122,3,0
-2017,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.750,371,1.450,140,316,185,114,1,0
-2018,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.821,424,1.496,134,332,148,175,2,0
+2014,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1479,403,1204,90,323,96,176,3,0
+2015,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1569,359,1293,97,318,168,104,4,0
+2016,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1662,337,1299,121,298,238,122,3,0
+2017,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1750,371,1450,140,316,185,114,1,0
+2018,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1821,424,1496,134,332,148,175,2,0
 2014,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,241,45,165,19,27,36,38,2,0
 2015,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,224,56,150,9,33,56,18,0,0
 2016,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,234,46,154,11,32,50,28,2,0
@@ -64,16 +64,16 @@
 2016,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,68,5,64,17,0,3,1,0,0
 2017,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,63,2,57,24,2,3,2,1,0
 2018,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,52,0,47,18,0,4,1,0,0
-2014,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.082,223,804,111,192,80,196,2,0
-2015,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.013,196,777,108,182,171,65,0,0
-2016,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.031,189,721,109,185,245,63,2,0
-2017,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.088,245,840,93,214,173,74,1,0
-2018,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.129,213,810,112,202,132,186,1,0
-2014,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.173,231,865,113,211,92,212,4,0
-2015,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.140,229,877,94,219,165,97,0,1
-2016,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.158,207,855,118,201,215,88,0,0
-2017,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.193,251,935,148,218,145,112,1,0
-2018,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.156,275,901,136,217,123,127,5,0
+2014,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1082,223,804,111,192,80,196,2,0
+2015,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1013,196,777,108,182,171,65,0,0
+2016,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1031,189,721,109,185,245,63,2,0
+2017,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1088,245,840,93,214,173,74,1,0
+2018,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1129,213,810,112,202,132,186,1,0
+2014,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1173,231,865,113,211,92,212,4,0
+2015,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1140,229,877,94,219,165,97,0,1
+2016,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1158,207,855,118,201,215,88,0,0
+2017,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1193,251,935,148,218,145,112,1,0
+2018,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1156,275,901,136,217,123,127,5,0
 2014,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,576,215,491,57,183,43,39,3,0
 2015,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,632,150,515,70,146,61,54,2,0
 2016,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,652,146,518,76,144,96,35,3,0

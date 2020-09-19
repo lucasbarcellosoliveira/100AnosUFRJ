@@ -1,10 +1,10 @@
-   ,  ,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
+CO_ANO,LOCALIES,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
 2014,Capital,14350,ENGENHARIA ELÉTRICA,Bacharelado,Graduação Presencial,Cidade Universitária,603,116,522,45,106,33,39,8,1
 2015,Capital,14350,ENGENHARIA ELÉTRICA,Bacharelado,Graduação Presencial,Cidade Universitária,619,106,529,41,101,56,31,3,0
 2016,Capital,14350,ENGENHARIA ELÉTRICA,Bacharelado,Graduação Presencial,Cidade Universitária,639,93,523,45,92,76,37,3,0
 2017,Capital,14350,ENGENHARIA ELÉTRICA,Bacharelado,Graduação Presencial,Cidade Universitária,653,100,555,54,96,56,36,6,0
 2018,Capital,14350,ENGENHARIA ELÉTRICA,Bacharelado,Graduação Presencial,Cidade Universitária,659,114,546,56,100,60,51,2,0
-2014,Capital,14351,ENGENHARIA CIVIL,Bacharelado,Graduação Presencial,Cidade Universitária,1.019,155,921,151,154,37,57,4,0
+2014,Capital,14351,ENGENHARIA CIVIL,Bacharelado,Graduação Presencial,Cidade Universitária,1019,155,921,151,154,37,57,4,0
 2015,Capital,14351,ENGENHARIA CIVIL,Bacharelado,Graduação Presencial,Cidade Universitária,977,155,872,266,156,58,42,5,0
 2016,Capital,14351,ENGENHARIA CIVIL,Bacharelado,Graduação Presencial,Cidade Universitária,971,140,854,227,138,74,39,4,0
 2017,Capital,14351,ENGENHARIA CIVIL,Bacharelado,Graduação Presencial,Cidade Universitária,940,134,832,152,145,56,47,4,1
@@ -29,11 +29,11 @@
 2016,Capital,14355,ENGENHARIA MECÂNICA,Bacharelado,Graduação Presencial,Cidade Universitária,874,135,716,79,134,120,35,3,0
 2017,Capital,14355,ENGENHARIA MECÂNICA,Bacharelado,Graduação Presencial,Cidade Universitária,892,130,767,86,134,78,45,2,0
 2018,Capital,14355,ENGENHARIA MECÂNICA,Bacharelado,Graduação Presencial,Cidade Universitária,901,148,755,87,143,67,74,5,0
-2014,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.045,244,953,99,196,36,49,7,0
-2015,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.085,187,984,97,185,64,36,1,0
-2016,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.133,186,982,97,181,107,42,2,0
-2017,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.191,202,1.045,125,195,84,56,6,0
-2018,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.201,210,1.037,104,200,92,67,5,0
+2014,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1045,244,953,99,196,36,49,7,0
+2015,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1085,187,984,97,185,64,36,1,0
+2016,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1133,186,982,97,181,107,42,2,0
+2017,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1191,202,1045,125,195,84,56,6,0
+2018,Capital,14367,ENGENHARIA QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,1201,210,1037,104,200,92,67,5,0
 2014,Capital,14368,ENGENHARIA DE MATERIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,223,61,191,28,45,11,18,3,0
 2015,Capital,14368,ENGENHARIA DE MATERIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,222,46,167,21,44,28,25,2,0
 2016,Capital,14368,ENGENHARIA DE MATERIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,217,51,146,20,42,41,27,3,0
