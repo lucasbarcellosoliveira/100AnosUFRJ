@@ -1,0 +1,345 @@
+   ,  ,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
+2014,Capital,14333,ARQUITETURA E URBANISMO,Bacharelado,Graduação Presencial,Cidade Universitária,1.658,265,1.457,157,257,82,114,5,0
+2015,Capital,14333,ARQUITETURA E URBANISMO,Bacharelado,Graduação Presencial,Cidade Universitária,1.654,254,1.427,130,251,123,99,5,0
+2016,Capital,14333,ARQUITETURA E URBANISMO,Bacharelado,Graduação Presencial,Cidade Universitária,1.666,258,1.441,173,246,171,49,5,0
+2017,Capital,14333,ARQUITETURA E URBANISMO,Bacharelado,Graduação Presencial,Cidade Universitária,1.688,240,1.467,210,239,144,74,3,0
+2018,Capital,14333,ARQUITETURA E URBANISMO,Bacharelado,Graduação Presencial,Cidade Universitária,1.674,271,1.439,176,269,135,95,5,0
+2014,Capital,14337,COMPOSIÇÃO DE INTERIOR,Bacharelado,Graduação Presencial,Cidade Universitária,197,32,161,26,30,16,20,0,0
+2015,Capital,14337,COMPOSIÇÃO DE INTERIOR,Bacharelado,Graduação Presencial,Cidade Universitária,187,31,152,19,31,24,7,4,0
+2016,Capital,14337,COMPOSIÇÃO DE INTERIOR,Bacharelado,Graduação Presencial,Cidade Universitária,195,30,139,24,28,36,13,7,0
+2017,Capital,14337,COMPOSIÇÃO DE INTERIOR,Bacharelado,Graduação Presencial,Cidade Universitária,187,30,142,12,30,24,21,0,0
+2018,Capital,14337,COMPOSIÇÃO DE INTERIOR,Bacharelado,Graduação Presencial,Cidade Universitária,190,36,143,12,35,20,17,10,0
+2014,Capital,14338,COMPOSIÇÃO PAISAGÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,92,21,70,15,19,10,11,1,0
+2015,Capital,14338,COMPOSIÇÃO PAISAGÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,90,23,71,7,21,12,5,2,0
+2016,Capital,14338,COMPOSIÇÃO PAISAGÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,100,24,70,4,24,18,8,4,0
+2017,Capital,14338,COMPOSIÇÃO PAISAGÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,106,20,78,12,20,21,7,0,0
+2018,Capital,14338,COMPOSIÇÃO PAISAGÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,114,32,79,15,27,14,14,7,0
+2014,Capital,14339,PINTURA,Bacharelado,Graduação Presencial,Cidade Universitária,243,71,170,30,37,47,25,1,0
+2015,Capital,14339,PINTURA,Bacharelado,Graduação Presencial,Cidade Universitária,245,75,173,18,44,47,24,1,0
+2016,Capital,14339,PINTURA,Bacharelado,Graduação Presencial,Cidade Universitária,261,59,168,10,52,62,30,1,0
+2017,Capital,14339,PINTURA,Bacharelado,Graduação Presencial,Cidade Universitária,282,52,220,22,51,38,24,0,0
+2018,Capital,14339,PINTURA,Bacharelado,Graduação Presencial,Cidade Universitária,302,71,228,13,60,42,29,3,0
+2014,Capital,14340,GRAVURA,Bacharelado,Graduação Presencial,Cidade Universitária,101,30,73,7,12,14,13,1,0
+2015,Capital,14340,GRAVURA,Bacharelado,Graduação Presencial,Cidade Universitária,95,33,69,12,11,18,7,1,0
+2016,Capital,14340,GRAVURA,Bacharelado,Graduação Presencial,Cidade Universitária,104,39,66,15,22,29,7,2,0
+2017,Capital,14340,GRAVURA,Bacharelado,Graduação Presencial,Cidade Universitária,106,25,72,10,24,21,13,0,0
+2018,Capital,14340,GRAVURA,Bacharelado,Graduação Presencial,Cidade Universitária,117,49,88,7,33,14,14,1,0
+2014,Capital,23967,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,0,1,0,0,1,3,0,0
+2015,Capital,23967,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,2,0,0,0,0,2,0,0,0
+2016,Capital,23967,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,2,0,0,0,0,0,0,2,0
+2017,Capital,23967,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,1,0,0,0,0,0,0,1,0
+2014,Capital,23969,EDUCAÇÃO ARTÍSTICA - DESENHO,Licenciatura,Graduação Presencial,Cidade Universitária,112,39,68,8,10,7,20,17,0
+2015,Capital,23969,EDUCAÇÃO ARTÍSTICA - DESENHO,Licenciatura,Graduação Presencial,Cidade Universitária,105,43,82,14,37,12,8,3,0
+2016,Capital,23969,EDUCAÇÃO ARTÍSTICA - DESENHO,Licenciatura,Graduação Presencial,Cidade Universitária,122,40,81,11,38,21,12,8,0
+2017,Capital,23969,EDUCAÇÃO ARTÍSTICA - DESENHO,Licenciatura,Graduação Presencial,Cidade Universitária,132,39,92,6,39,16,17,7,0
+2018,Capital,23969,EDUCAÇÃO ARTÍSTICA - DESENHO,Licenciatura,Graduação Presencial,Cidade Universitária,145,61,93,3,43,18,25,9,0
+2014,Capital,30273,EDUCAÇÃO ARTÍSTICA COM HABILITAÇÃO EM ARTES PLÁSTICAS,Licenciatura,Graduação Presencial,Cidade Universitária,292,63,235,46,53,15,38,4,0
+2015,Capital,30273,EDUCAÇÃO ARTÍSTICA COM HABILITAÇÃO EM ARTES PLÁSTICAS,Licenciatura,Graduação Presencial,Cidade Universitária,266,62,218,58,51,33,13,2,0
+2016,Capital,30273,EDUCAÇÃO ARTÍSTICA COM HABILITAÇÃO EM ARTES PLÁSTICAS,Licenciatura,Graduação Presencial,Cidade Universitária,246,47,175,33,47,53,14,4,0
+2017,Capital,30273,EDUCAÇÃO ARTÍSTICA COM HABILITAÇÃO EM ARTES PLÁSTICAS,Licenciatura,Graduação Presencial,Cidade Universitária,249,50,194,36,49,35,20,0,0
+2018,Capital,30273,EDUCAÇÃO ARTÍSTICA - ARTES PLÁSTICAS,Licenciatura,Graduação Presencial,Cidade Universitária,249,57,189,25,56,32,23,5,0
+2014,Capital,33821,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,56,17,34,4,7,11,11,0,0
+2015,Capital,33821,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,52,16,35,4,8,11,6,0,0
+2016,Capital,33821,MÚSICA - COMPOSIÇÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,52,16,37,7,9,8,7,0,0
+2017,Capital,33821,MÚSICA - COMPOSIÇÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,51,18,38,8,10,7,5,1,0
+2018,Capital,33821,MÚSICA - COMPOSIÇÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,46,21,38,3,6,5,3,0,0
+2014,Capital,33825,DESENHO INDUSTRIAL,Bacharelado,Graduação Presencial,Cidade Universitária,342,64,266,40,58,38,34,4,0
+2015,Capital,33825,DESENHO INDUSTRIAL,Bacharelado,Graduação Presencial,Cidade Universitária,339,54,263,20,51,59,15,2,0
+2016,Capital,33825,DESENHO INDUSTRIAL,Bacharelado,Graduação Presencial,Cidade Universitária,362,53,259,31,52,76,26,1,0
+2017,Capital,33825,DESENHO INDUSTRIAL,Bacharelado,Graduação Presencial,Cidade Universitária,357,50,285,32,50,48,24,0,0
+2018,Capital,33825,DESENHO INDUSTRIAL - PROJETO DE PRODUTO,Bacharelado,Graduação Presencial,Cidade Universitária,355,61,287,42,52,39,26,3,0
+2014,Capital,35558,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,56,14,39,5,9,10,7,0,0
+2015,Capital,35558,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,61,12,45,4,12,8,7,1,0
+2016,Capital,35558,MÚSICA - CANTO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,59,10,46,9,8,10,2,1,0
+2017,Capital,35558,MÚSICA - CANTO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,59,9,51,10,8,4,4,0,0
+2018,Capital,35558,MÚSICA - CANTO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,55,11,47,6,9,6,2,0,0
+2014,Capital,45127,MÚSICA - TROMPETE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,24,3,20,4,3,3,1,0,0
+2015,Capital,45127,MÚSICA - TROMPETE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,23,6,17,3,2,3,2,1,0
+2016,Capital,45127,MÚSICA - TROMPETE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,21,6,18,3,4,3,0,0,0
+2017,Capital,45127,MÚSICA - TROMPETE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,18,3,16,6,0,2,0,0,0
+2018,Capital,45127,MÚSICA - TROMPETE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,13,7,10,2,1,1,2,0,0
+2014,Capital,45128,MÚSICA - HARPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,8,4,1,1,1,0,0,0
+2015,Capital,45128,MÚSICA - HARPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,11,4,0,1,1,0,0,0
+2016,Capital,45128,MÚSICA - HARPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,7,5,0,2,1,0,1,0
+2017,Capital,45128,MÚSICA - HARPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,10,7,1,2,1,0,0,0
+2018,Capital,45128,MÚSICA - HARPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,12,5,1,0,1,1,0,0
+2014,Capital,45132,MÚSICA - TROMBONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,11,10,7,1,2,3,1,0,0
+2015,Capital,45132,MÚSICA - TROMBONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,10,11,6,0,1,4,0,0,0
+2016,Capital,45132,MÚSICA - TROMBONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,10,12,7,2,0,1,2,0,0
+2017,Capital,45132,MÚSICA - TROMBONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,6,6,6,2,0,0,0,0,0
+2018,Capital,45132,MÚSICA - TROMBONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,6,4,1,1,0,1,0,0
+2014,Capital,45133,MÚSICA - TROMPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,10,10,3,2,5,0,0,0
+2015,Capital,45133,MÚSICA - TROMPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,14,11,7,0,1,4,3,0,0
+2016,Capital,45133,MÚSICA - TROMPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,11,12,9,3,0,1,1,0,0
+2017,Capital,45133,MÚSICA - TROMPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,6,7,1,1,0,1,0,0
+2018,Capital,45133,MÚSICA - TROMPA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,16,5,4,1,1,1,0,0
+2014,Capital,45134,MÚSICA - VIOLA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,9,2,0,2,0,1,0,0
+2015,Capital,45134,MÚSICA - VIOLA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,9,4,0,2,0,1,0,0
+2016,Capital,45134,MÚSICA - VIOLA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,9,4,0,0,0,1,0,0
+2017,Capital,45134,MÚSICA - VIOLA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,5,6,0,2,0,1,0,0
+2018,Capital,45134,MÚSICA - VIOLA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,11,7,3,0,0,0,0,0
+2014,Capital,45135,MÚSICA - FAGOTE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,9,5,1,0,1,2,0,0
+2015,Capital,45135,MÚSICA - FAGOTE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,6,8,3,1,0,3,0,0,0
+2016,Capital,45135,MÚSICA - FAGOTE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,7,2,2,0,3,0,0,0
+2017,Capital,45135,MÚSICA - FAGOTE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,5,2,0,2,3,0,0,0
+2018,Capital,45135,MÚSICA - FAGOTE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,6,11,4,1,1,2,0,0,0
+2014,Capital,45136,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,22,11,19,2,3,0,3,0,0
+2015,Capital,45136,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,22,8,20,3,4,1,1,0,0
+2016,Capital,45136,MÚSICA - VIOLINO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,24,6,16,4,4,4,3,1,0
+2017,Capital,45136,MÚSICA - VIOLINO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,21,5,16,2,5,3,2,0,0
+2018,Capital,45136,MÚSICA - VIOLINO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,22,6,17,1,5,3,2,0,0
+2014,Capital,45137,MÚSICA - FLAUTA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,16,4,14,3,2,0,2,0,0
+2015,Capital,45137,MÚSICA - FLAUTA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,8,13,1,3,2,0,0,0
+2016,Capital,45137,MÚSICA - FLAUTA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,17,7,12,2,3,4,0,1,0
+2017,Capital,45137,MÚSICA - FLAUTA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,16,6,12,2,2,2,2,0,0
+2018,Capital,45137,MÚSICA - FLAUTA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,14,9,10,1,2,2,2,0,0
+2014,Capital,45138,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,8,4,0,0,0,1,0,0
+2015,Capital,45138,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,7,3,0,0,1,0,0,0
+2016,Capital,45138,MÚSICA - VIOLONCELO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,6,3,1,0,1,0,0,0
+2017,Capital,45138,MÚSICA - VIOLONCELO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,4,2,1,0,0,1,0,0
+2018,Capital,45138,MÚSICA - VIOLONCELO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,1,4,0,0,0,0,1,0,0
+2014,Capital,45142,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,46,12,36,4,1,4,5,1,0
+2015,Capital,45142,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,46,15,37,6,7,6,3,0,0
+2016,Capital,45142,MÚSICA - VIOLÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,43,11,33,5,6,7,2,1,0
+2017,Capital,45142,MÚSICA - VIOLÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,43,13,34,4,8,5,3,1,0
+2018,Capital,45142,MÚSICA - VIOLÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,39,13,28,4,3,7,4,0,0
+2014,Capital,45145,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,42,14,39,11,7,0,2,1,0
+2015,Capital,45145,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,35,14,34,7,7,1,0,0,0
+2016,Capital,45145,MÚSICA - PIANO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,34,15,27,4,5,4,2,1,0
+2017,Capital,45145,MÚSICA - PIANO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,38,17,33,4,10,4,1,0,0
+2018,Capital,45145,MÚSICA - PIANO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,39,16,29,5,6,4,3,3,0
+2014,Capital,45148,MÚSICA - INSTRUMENTO DE PERCUSSÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,7,5,0,0,0,2,0,0
+2015,Capital,45148,MÚSICA - INSTRUMENTO DE PERCUSSÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,6,3,0,0,2,0,0,0
+2016,Capital,45148,MÚSICA - INSTRUMENTO DE PERCUSSÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,5,5,1,0,0,0,0,0
+2017,Capital,45148,MÚSICA - INSTRUMENTO DE PERCUSSÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,6,3,5,1,2,1,0,0,0
+2018,Capital,45148,MÚSICA - INSTRUMENTO DE PERCUSSÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,9,6,7,2,4,2,0,0,0
+2014,Capital,45149,MÚSICA - OBOÉ,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,4,4,3,0,0,1,0,0
+2015,Capital,45149,MÚSICA - OBOÉ,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,2,7,1,0,1,1,0,0,0
+2016,Capital,45149,MÚSICA - OBOÉ,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,7,2,0,1,1,0,0,0
+2017,Capital,45149,MÚSICA - OBOÉ,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,9,2,0,0,0,1,0,0
+2018,Capital,45149,MÚSICA - OBOÉ,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,7,3,0,1,0,0,0,0
+2014,Capital,45150,MÚSICA - SAXOFONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,16,11,11,1,3,3,2,0,0
+2015,Capital,45150,MÚSICA - SAXOFONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,16,10,11,2,3,4,1,0,0
+2016,Capital,45150,MÚSICA - SAXOFONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,14,10,8,1,1,5,1,0,0
+2017,Capital,45150,MÚSICA - SAXOFONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,6,10,2,3,4,1,0,0
+2018,Capital,45150,MÚSICA - SAXOFONE,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,13,14,8,3,1,1,3,1,0
+2014,Capital,45197,MÚSICA - ÓRGÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,8,4,0,1,0,1,0,0
+2015,Capital,45197,MÚSICA - ÓRGÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,10,4,1,1,0,1,0,0
+2016,Capital,45197,MÚSICA - ÓRGÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,9,2,0,0,1,0,0,0
+2017,Capital,45197,MÚSICA - ÓRGÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,6,2,0,0,1,0,0,0
+2018,Capital,45197,MÚSICA - ÓRGÃO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,7,3,1,1,1,0,0,0
+2018,Capital,45199,MÚSICA - CONTRABAIXO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,2,9,2,0,2,0,0,0,0
+2014,Capital,45201,MÚSICA - TUBA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,10,4,0,1,0,0,0,0
+2015,Capital,45201,MÚSICA - TUBA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,6,12,5,1,2,1,0,0,0
+2016,Capital,45201,MÚSICA - TUBA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,10,4,0,2,2,0,1,0
+2017,Capital,45201,MÚSICA - TUBA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,13,2,0,1,3,1,1,0
+2018,Capital,45201,MÚSICA - TUBA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,20,4,1,2,2,1,0,0
+2014,Capital,45202,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,13,8,10,2,0,2,1,0,0
+2015,Capital,45202,MÚSICA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,10,9,6,2,0,3,1,0,0
+2016,Capital,45202,MÚSICA - CLARINETA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,12,8,11,3,3,0,1,0,0
+2017,Capital,45202,MÚSICA - CLARINETA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,10,11,6,0,1,3,1,0,0
+2018,Capital,45202,MÚSICA - CLARINETA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,11,14,9,2,1,0,2,0,0
+2014,Capital,85786,MÚSICA,Licenciatura,Graduação Presencial,ESCOLA DE MÚSICA,190,36,151,14,32,18,20,1,0
+2015,Capital,85786,MÚSICA,Licenciatura,Graduação Presencial,ESCOLA DE MÚSICA,186,39,145,18,30,30,7,4,0
+2016,Capital,85786,MÚSICA,Licenciatura,Graduação Presencial,ESCOLA DE MÚSICA,192,34,151,21,35,28,10,3,0
+2017,Capital,85786,MÚSICA,Licenciatura,Graduação Presencial,ESCOLA DE MÚSICA,194,32,157,12,30,22,12,3,0
+2018,Capital,85786,MÚSICA,Licenciatura,Graduação Presencial,ESCOLA DE MÚSICA,197,28,148,16,27,23,22,4,0
+2014,Capital,99324,MÚSICA - CRAVO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,3,7,1,0,0,2,0,0,0
+2015,Capital,99324,MÚSICA - CRAVO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,6,4,0,1,0,0,0,0
+2016,Capital,99324,MÚSICA - CRAVO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,5,4,2,0,0,0,0,0
+2017,Capital,99324,MÚSICA - CRAVO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,2,3,1,0,0,0,1,0,0
+2018,Capital,99324,MÚSICA - CRAVO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,1,5,0,0,0,0,1,0,0
+2014,Capital,107783,LETRAS - PORTUGUÊS E HEBRAICO,Bacharelado,Graduação Presencial,Cidade Universitária,33,0,21,9,0,5,7,0,0
+2015,Capital,107783,LETRAS - PORTUGUÊS E HEBRAICO,Bacharelado,Graduação Presencial,Cidade Universitária,23,0,12,3,0,8,2,1,0
+2016,Capital,107783,LETRAS - PORTUGUÊS E HEBRAICO,Bacharelado,Graduação Presencial,Cidade Universitária,23,6,13,2,0,4,6,0,0
+2017,Capital,107783,LETRAS - PORTUGUÊS E HEBRAICO,Bacharelado,Graduação Presencial,Cidade Universitária,16,0,9,1,0,6,1,0,0
+2018,Capital,107783,LETRAS - PORTUGUÊS E HEBRAICO,Bacharelado,Graduação Presencial,Cidade Universitária,19,2,13,3,1,3,3,0,0
+2014,Capital,107784,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,10,2,7,3,1,1,2,0,0
+2015,Capital,107784,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,7,1,4,3,1,2,1,0,0
+2016,Capital,107784,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,4,0,1,0,0,1,2,0,0
+2014,Capital,107788,LETRAS - PORTUGUÊS E ALEMÃO,Bacharelado,Graduação Presencial,Cidade Universitária,58,10,41,9,2,5,10,2,0
+2015,Capital,107788,LETRAS - PORTUGUÊS E ALEMÃO,Bacharelado,Graduação Presencial,Cidade Universitária,49,9,29,5,4,11,8,1,0
+2016,Capital,107788,LETRAS - PORTUGUÊS E ALEMÃO,Bacharelado,Graduação Presencial,Cidade Universitária,47,6,28,5,2,11,3,5,0
+2017,Capital,107788,LETRAS - PORTUGUÊS E ALEMÃO,Bacharelado,Graduação Presencial,Cidade Universitária,39,1,24,2,0,6,4,5,0
+2018,Capital,107788,LETRAS - PORTUGUÊS E ALEMÃO,Bacharelado,Graduação Presencial,Cidade Universitária,42,6,28,0,4,6,7,1,0
+2014,Capital,107790,LETRAS - PORTUGUÊS E ÁRABE,Bacharelado,Graduação Presencial,Cidade Universitária,23,0,17,7,0,2,4,0,0
+2015,Capital,107790,LETRAS - PORTUGUÊS E ÁRABE,Bacharelado,Graduação Presencial,Cidade Universitária,14,1,11,4,0,3,0,0,0
+2016,Capital,107790,LETRAS - PORTUGUÊS E ÁRABE,Bacharelado,Graduação Presencial,Cidade Universitária,15,4,9,1,1,3,3,0,0
+2017,Capital,107790,LETRAS - PORTUGUÊS E ÁRABE,Bacharelado,Graduação Presencial,Cidade Universitária,14,0,10,1,0,2,1,1,0
+2018,Capital,107790,LETRAS - PORTUGUÊS E ÁRABE,Bacharelado,Graduação Presencial,Cidade Universitária,17,2,12,1,1,2,3,0,0
+2014,Capital,107792,LETRAS - PORTUGUÊS E RUSSO,Bacharelado,Graduação Presencial,Cidade Universitária,26,0,19,2,0,5,2,0,0
+2015,Capital,107792,LETRAS - PORTUGUÊS E RUSSO,Bacharelado,Graduação Presencial,Cidade Universitária,26,0,18,3,0,5,3,0,0
+2016,Capital,107792,LETRAS - PORTUGUÊS E RUSSO,Bacharelado,Graduação Presencial,Cidade Universitária,25,5,12,2,0,9,4,0,0
+2017,Capital,107792,LETRAS - PORTUGUÊS E RUSSO,Bacharelado,Graduação Presencial,Cidade Universitária,24,0,17,3,0,4,3,0,0
+2018,Capital,107792,LETRAS - PORTUGUÊS E RUSSO,Bacharelado,Graduação Presencial,Cidade Universitária,25,1,18,4,1,2,5,0,0
+2014,Capital,107794,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Bacharelado,Graduação Presencial,Cidade Universitária,267,5,216,67,5,24,25,2,0
+2015,Capital,107794,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Bacharelado,Graduação Presencial,Cidade Universitária,248,14,172,43,13,40,24,12,0
+2016,Capital,107794,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Bacharelado,Graduação Presencial,Cidade Universitária,212,9,129,34,3,57,18,8,0
+2017,Capital,107794,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Bacharelado,Graduação Presencial,Cidade Universitária,200,7,136,24,5,39,20,5,0
+2018,Capital,107794,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Bacharelado,Graduação Presencial,Cidade Universitária,216,65,155,27,26,24,30,7,0
+2014,Capital,107796,LETRAS - PORTUGUÊS E ESPANHOL,Bacharelado,Graduação Presencial,Cidade Universitária,75,5,54,16,3,4,16,1,0
+2015,Capital,107796,LETRAS - PORTUGUÊS E ESPANHOL,Bacharelado,Graduação Presencial,Cidade Universitária,64,5,49,4,3,12,3,0,0
+2016,Capital,107796,LETRAS - PORTUGUÊS E ESPANHOL,Bacharelado,Graduação Presencial,Cidade Universitária,70,6,49,11,2,11,6,4,0
+2017,Capital,107796,LETRAS - PORTUGUÊS E ESPANHOL,Bacharelado,Graduação Presencial,Cidade Universitária,63,7,48,6,7,9,5,1,0
+2018,Capital,107796,LETRAS - PORTUGUÊS E ESPANHOL,Bacharelado,Graduação Presencial,Cidade Universitária,65,9,44,8,7,8,6,7,0
+2014,Capital,107797,LETRAS - PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,PRAIA VERMELHA,32,12,19,11,8,4,9,0,0
+2015,Capital,107797,LETRAS - PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,PRAIA VERMELHA,16,1,9,3,1,6,1,0,0
+2016,Capital,107797,LETRAS - PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,PRAIA VERMELHA,13,1,5,3,1,3,5,0,0
+2014,Capital,107798,LETRAS - PORTUGUÊS E FRANCÊS,Bacharelado,Graduação Presencial,Cidade Universitária,69,0,45,15,0,6,17,1,0
+2015,Capital,107798,LETRAS - PORTUGUÊS E FRANCÊS,Bacharelado,Graduação Presencial,Cidade Universitária,52,5,35,9,0,10,5,2,0
+2016,Capital,107798,LETRAS - PORTUGUÊS E FRANCÊS,Bacharelado,Graduação Presencial,Cidade Universitária,47,6,31,6,4,9,4,3,0
+2017,Capital,107798,LETRAS - PORTUGUÊS E FRANCÊS,Bacharelado,Graduação Presencial,Cidade Universitária,51,5,36,5,5,7,4,4,0
+2018,Capital,107798,LETRAS - PORTUGUÊS E FRANCÊS,Bacharelado,Graduação Presencial,Cidade Universitária,63,8,47,7,5,6,6,4,0
+2014,Capital,107799,LETRAS - PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,PRAIA VERMELHA,18,12,11,6,7,1,6,0,0
+2015,Capital,107799,LETRAS - PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,PRAIA VERMELHA,8,1,4,2,1,3,1,0,0
+2016,Capital,107799,LETRAS - PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,Cidade Universitária,8,1,6,6,1,0,0,2,0
+2014,Capital,107800,LETRAS - PORTUGUÊS E GREGO,Bacharelado,Graduação Presencial,Cidade Universitária,30,0,22,5,0,4,4,0,0
+2015,Capital,107800,LETRAS - PORTUGUÊS E GREGO,Bacharelado,Graduação Presencial,Cidade Universitária,30,0,22,4,0,6,2,0,0
+2016,Capital,107800,LETRAS - PORTUGUÊS E GREGO,Bacharelado,Graduação Presencial,Cidade Universitária,28,6,20,3,3,5,2,1,0
+2017,Capital,107800,LETRAS - PORTUGUÊS E GREGO,Bacharelado,Graduação Presencial,Cidade Universitária,27,3,19,3,3,5,3,0,0
+2018,Capital,107800,LETRAS - PORTUGUÊS E GREGO,Bacharelado,Graduação Presencial,Cidade Universitária,28,3,11,2,2,7,7,3,0
+2014,Capital,107801,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,4,2,3,1,1,0,1,0,0
+2015,Capital,107801,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,2,0,0,0,0,1,1,0,0
+2016,Capital,107801,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,1,0,0,0,0,1,0,0,0
+2014,Capital,107802,LETRAS - PORTUGUÊS E ITALIANO,Bacharelado,Graduação Presencial,Cidade Universitária,59,1,43,9,1,6,9,1,0
+2015,Capital,107802,LETRAS - PORTUGUÊS E ITALIANO,Bacharelado,Graduação Presencial,Cidade Universitária,52,2,34,8,1,12,4,2,0
+2016,Capital,107802,LETRAS - PORTUGUÊS E ITALIANO,Bacharelado,Graduação Presencial,Cidade Universitária,51,6,36,14,6,12,2,1,0
+2017,Capital,107802,LETRAS - PORTUGUÊS E ITALIANO,Bacharelado,Graduação Presencial,Cidade Universitária,50,6,35,5,6,7,7,1,0
+2018,Capital,107802,LETRAS - PORTUGUÊS E ITALIANO,Bacharelado,Graduação Presencial,Cidade Universitária,53,5,37,3,4,5,7,4,0
+2014,Capital,107803,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,25,8,15,8,4,3,6,1,0
+2015,Capital,107803,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,12,0,4,3,0,4,3,1,0
+2016,Capital,107803,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,PRAIA VERMELHA,6,0,3,2,0,1,2,0,0
+2014,Capital,107804,LETRAS - PORTUGUÊS E INGLÊS,Bacharelado,Graduação Presencial,Cidade Universitária,180,4,140,33,4,12,19,9,0
+2015,Capital,107804,LETRAS - PORTUGUÊS E INGLÊS,Bacharelado,Graduação Presencial,Cidade Universitária,176,9,124,36,4,34,13,5,0
+2016,Capital,107804,LETRAS - PORTUGUÊS E INGLÊS,Bacharelado,Graduação Presencial,Cidade Universitária,177,7,111,26,6,48,14,4,0
+2017,Capital,107804,LETRAS - PORTUGUÊS E INGLÊS,Bacharelado,Graduação Presencial,Cidade Universitária,173,9,133,28,10,14,19,7,0
+2018,Capital,107804,LETRAS - PORTUGUÊS E INGLÊS,Bacharelado,Graduação Presencial,Cidade Universitária,178,24,118,15,14,21,23,16,0
+2014,Capital,107806,LETRAS - PORTUGUÊS E LATIM,Bacharelado,Graduação Presencial,Cidade Universitária,76,0,55,17,0,10,10,1,0
+2015,Capital,107806,LETRAS - PORTUGUÊS E LATIM,Bacharelado,Graduação Presencial,Cidade Universitária,67,2,45,13,0,13,6,3,0
+2016,Capital,107806,LETRAS - PORTUGUÊS E LATIM,Bacharelado,Graduação Presencial,Cidade Universitária,63,8,45,11,4,9,7,2,0
+2017,Capital,107806,LETRAS - PORTUGUÊS E LATIM,Bacharelado,Graduação Presencial,Cidade Universitária,50,1,30,3,0,11,4,5,0
+2018,Capital,107806,LETRAS - PORTUGUÊS E LATIM,Bacharelado,Graduação Presencial,Cidade Universitária,47,4,28,6,2,8,9,2,0
+2014,Capital,107808,LETRAS - PORTUGUÊS E JAPONÊS,Bacharelado,Graduação Presencial,Cidade Universitária,31,0,21,3,0,7,3,0,0
+2015,Capital,107808,LETRAS - PORTUGUÊS E JAPONÊS,Bacharelado,Graduação Presencial,Cidade Universitária,34,1,23,3,1,9,2,0,0
+2016,Capital,107808,LETRAS - PORTUGUÊS E JAPONÊS,Bacharelado,Graduação Presencial,Cidade Universitária,37,4,23,8,2,11,3,0,0
+2017,Capital,107808,LETRAS - PORTUGUÊS E JAPONÊS,Bacharelado,Graduação Presencial,Cidade Universitária,30,0,21,2,0,5,4,0,0
+2018,Capital,107808,LETRAS - PORTUGUÊS E JAPONÊS,Bacharelado,Graduação Presencial,Cidade Universitária,39,13,24,2,7,6,6,3,0
+2014,Capital,113332,HISTÓRIA DA ARTE,Bacharelado,Graduação Presencial,Cidade Universitária,323,99,244,11,78,41,36,2,0
+2015,Capital,113332,HISTÓRIA DA ARTE,Bacharelado,Graduação Presencial,Cidade Universitária,358,87,249,14,74,67,36,6,0
+2016,Capital,113332,HISTÓRIA DA ARTE,Bacharelado,Graduação Presencial,Cidade Universitária,373,77,222,14,70,113,35,3,0
+2017,Capital,113332,HISTÓRIA DA ARTE,Bacharelado,Graduação Presencial,Cidade Universitária,398,70,260,12,68,98,40,0,0
+2018,Capital,113332,HISTÓRIA DA ARTE,Bacharelado,Graduação Presencial,Cidade Universitária,425,101,279,19,75,69,70,7,0
+2014,Capital,116842,COMUNICAÇÃO VISUAL DESIGN,Bacharelado,Graduação Presencial,Cidade Universitária,447,85,391,41,80,27,28,1,0
+2015,Capital,116842,COMUNICAÇÃO VISUAL DESIGN,Bacharelado,Graduação Presencial,Cidade Universitária,464,76,376,37,75,72,16,0,0
+2016,Capital,116842,COMUNICAÇÃO VISUAL DESIGN,Bacharelado,Graduação Presencial,Cidade Universitária,494,73,386,46,69,77,30,1,0
+2017,Capital,116842,COMUNICAÇÃO VISUAL DESIGN,Bacharelado,Graduação Presencial,Cidade Universitária,506,72,428,35,74,54,24,0,0
+2018,Capital,116842,COMUNICAÇÃO VISUAL DESIGN,Bacharelado,Graduação Presencial,Cidade Universitária,528,78,453,82,78,50,24,1,0
+2014,Capital,122390,MÙSICA - REGÊNCIA CORAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,13,5,9,2,1,2,2,0,0
+2015,Capital,122390,MÙSICA - REGÊNCIA CORAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,14,7,10,0,4,2,1,1,0
+2016,Capital,122390,MÙSICA - REGÊNCIA CORAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,6,10,0,3,3,2,0,0
+2017,Capital,122390,MÙSICA - REGÊNCIA CORAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,16,5,14,0,4,1,1,0,0
+2018,Capital,122390,MÙSICA - REGÊNCIA CORAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,7,13,4,0,1,1,0,0
+2014,Capital,122392,MÚSICA - REGÊNCIA ORQUESTRAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,19,7,16,4,3,2,1,0,0
+2015,Capital,122392,MÚSICA - REGÊNCIA ORQUESTRAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,16,6,10,2,1,4,0,2,0
+2016,Capital,122392,MÚSICA - REGÊNCIA ORQUESTRAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,17,5,14,3,4,3,0,0,0
+2017,Capital,122392,MÚSICA - REGÊNCIA ORQUESTRAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,4,11,0,1,2,1,1,0
+2018,Capital,122392,MÚSICA - REGÊNCIA ORQUESTRAL,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,15,5,12,1,2,1,2,0,0
+2014,Capital,1114221,LETRAS - PORTUGUÊS E ALEMÃO,Licenciatura,Graduação Presencial,Cidade Universitária,60,16,53,4,7,5,1,1,0
+2015,Capital,1114221,LETRAS - PORTUGUÊS E ALEMÃO,Licenciatura,Graduação Presencial,Cidade Universitária,66,2,54,10,1,7,1,4,0
+2016,Capital,1114221,LETRAS - PORTUGUÊS E ALEMÃO,Licenciatura,Graduação Presencial,Cidade Universitária,72,2,56,7,0,9,6,1,0
+2017,Capital,1114221,LETRAS - PORTUGUÊS E ALEMÃO,Licenciatura,Graduação Presencial,Cidade Universitária,72,0,59,8,0,8,5,0,0
+2018,Capital,1114221,LETRAS - PORTUGUÊS E ALEMÃO,Licenciatura,Graduação Presencial,Cidade Universitária,87,1,65,2,1,11,7,4,0
+2014,Capital,1114222,LETRAS - PORTUGUÊS E ÁRABE,Licenciatura,Graduação Presencial,Cidade Universitária,19,2,16,2,2,2,1,0,0
+2015,Capital,1114222,LETRAS - PORTUGUÊS E ÁRABE,Licenciatura,Graduação Presencial,Cidade Universitária,23,5,17,3,3,5,0,1,0
+2016,Capital,1114222,LETRAS - PORTUGUÊS E ÁRABE,Licenciatura,Graduação Presencial,Cidade Universitária,28,0,21,3,0,5,2,0,0
+2017,Capital,1114222,LETRAS - PORTUGUÊS E ÁRABE,Licenciatura,Graduação Presencial,Cidade Universitária,27,0,21,3,0,5,0,1,0
+2018,Capital,1114222,LETRAS - PORTUGUÊS E ÁRABE,Licenciatura,Graduação Presencial,Cidade Universitária,32,1,21,1,1,2,6,3,0
+2014,Capital,1114223,LETRAS - PORTUGUÊS E RUSSO,Licenciatura,Graduação Presencial,Cidade Universitária,14,1,9,2,1,4,0,1,0
+2015,Capital,1114223,LETRAS - PORTUGUÊS E RUSSO,Licenciatura,Graduação Presencial,Cidade Universitária,14,0,6,0,0,4,2,2,0
+2016,Capital,1114223,LETRAS - PORTUGUÊS E RUSSO,Licenciatura,Graduação Presencial,Cidade Universitária,17,0,10,0,0,4,2,1,0
+2017,Capital,1114223,LETRAS - PORTUGUÊS E RUSSO,Licenciatura,Graduação Presencial,Cidade Universitária,19,0,11,1,0,2,2,4,0
+2018,Capital,1114223,LETRAS - PORTUGUÊS E RUSSO,Licenciatura,Graduação Presencial,Cidade Universitária,20,3,13,0,0,2,3,2,0
+2014,Capital,1114224,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,382,15,321,55,16,18,30,13,0
+2015,Capital,1114224,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,416,42,339,64,14,44,20,13,0
+2016,Capital,1114224,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,766,14,567,66,13,151,34,14,0
+2017,Capital,1114224,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,749,15,624,73,1,65,34,26,0
+2018,Capital,1114224,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,828,61,643,72,53,61,111,13,0
+2014,Capital,1114225,LETRAS COM PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,Cidade Universitária,150,8,136,11,5,8,4,2,0
+2015,Capital,1114225,LETRAS COM PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,Cidade Universitária,163,0,135,23,0,13,4,11,0
+2016,Capital,1114225,LETRAS COM PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,Cidade Universitária,155,4,124,18,0,23,5,3,0
+2017,Capital,1114225,LETRAS - PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,Cidade Universitária,168,1,146,31,1,13,7,2,0
+2018,Capital,1114225,LETRAS - PORTUGUÊS E ESPANHOL,Licenciatura,Graduação Presencial,Cidade Universitária,185,2,143,12,2,14,23,5,0
+2014,Capital,1114226,LETRAS PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,Cidade Universitária,79,4,66,3,4,3,5,5,0
+2015,Capital,1114226,LETRAS PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,Cidade Universitária,106,4,94,11,1,10,0,2,0
+2016,Capital,1114226,LETRAS PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,Cidade Universitária,124,2,106,14,2,12,3,3,0
+2017,Capital,1114226,LETRAS - PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,Cidade Universitária,134,0,103,16,0,20,5,6,0
+2018,Capital,1114226,LETRAS - PORTUGUÊS E FRANCÊS,Licenciatura,Graduação Presencial,Cidade Universitária,161,4,130,16,1,15,8,8,0
+2014,Capital,1114229,LETRAS - PORTUGUÊS E INGLÊS,Licenciatura,Graduação Presencial,Cidade Universitária,236,12,178,26,7,21,23,14,0
+2015,Capital,1114229,LETRAS - PORTUGUÊS E INGLÊS,Licenciatura,Graduação Presencial,Cidade Universitária,279,28,230,31,2,20,13,16,0
+2016,Capital,1114229,LETRAS - PORTUGUÊS E INGLÊS,Licenciatura,Graduação Presencial,Cidade Universitária,265,6,201,18,0,36,9,19,0
+2017,Capital,1114229,LETRAS - PORTUGUÊS E INGLÊS,Licenciatura,Graduação Presencial,Cidade Universitária,304,1,246,33,0,31,10,17,0
+2018,Capital,1114229,LETRAS - PORTUGUÊS E INGLÊS,Licenciatura,Graduação Presencial,Cidade Universitária,348,7,277,22,4,17,36,18,0
+2014,Capital,1114230,LETRAS - PORTUGUÊS E LATIM,Licenciatura,Graduação Presencial,Cidade Universitária,77,5,63,8,5,3,6,5,0
+2015,Capital,1114230,LETRAS - PORTUGUÊS E LATIM,Licenciatura,Graduação Presencial,Cidade Universitária,82,1,60,4,1,10,4,8,0
+2016,Capital,1114230,LETRAS - PORTUGUÊS E LATIM,Licenciatura,Graduação Presencial,Cidade Universitária,84,1,67,9,1,12,1,4,0
+2017,Capital,1114230,LETRAS - PORTUGUÊS E LATIM,Licenciatura,Graduação Presencial,Cidade Universitária,83,0,66,7,0,6,9,2,0
+2018,Capital,1114230,LETRAS - PORTUGUÊS E LATIM,Licenciatura,Graduação Presencial,Cidade Universitária,100,3,79,11,0,6,10,5,0
+2014,Capital,1114231,LETRAS - PORTUGUÊS E JAPONÊS,Licenciatura,Graduação Presencial,Cidade Universitária,23,0,14,3,0,3,2,4,0
+2015,Capital,1114231,LETRAS - PORTUGUÊS E JAPONÊS,Licenciatura,Graduação Presencial,Cidade Universitária,16,0,11,0,0,2,1,2,0
+2016,Capital,1114231,LETRAS - PORTUGUÊS E JAPONÊS,Licenciatura,Graduação Presencial,Cidade Universitária,19,0,11,1,0,3,3,2,0
+2017,Capital,1114231,LETRAS - PORTUGUÊS E JAPONÊS,Licenciatura,Graduação Presencial,Cidade Universitária,21,0,18,2,0,2,1,0,0
+2018,Capital,1114231,LETRAS - PORTUGUÊS E JAPONÊS,Licenciatura,Graduação Presencial,Cidade Universitária,31,2,24,1,0,1,1,5,0
+2014,Capital,1114294,CONSERVAÇÃO E RESTAURAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,153,54,121,0,44,10,22,0,0
+2015,Capital,1114294,CONSERVAÇÃO E RESTAURAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,174,45,126,1,41,33,13,2,0
+2016,Capital,1114294,CONSERVAÇÃO E RESTAURAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,196,41,129,2,38,50,14,2,1
+2017,Capital,1114294,CONSERVAÇÃO E RESTAURAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,218,40,154,11,40,43,21,0,0
+2018,Capital,1114294,CONSERVAÇÃO E RESTAURAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,232,55,156,13,45,28,44,4,0
+2014,Capital,1114300,MÚSICA - BANDOLIM,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,7,4,1,0,1,0,0,0
+2015,Capital,1114300,MÚSICA - BANDOLIM,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,6,4,0,1,1,0,0,0
+2016,Capital,1114300,MÚSICA - BANDOLIM,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,6,3,0,0,0,1,1,0
+2017,Capital,1114300,MÚSICA - BANDOLIM,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,5,3,0,1,1,0,0,0
+2018,Capital,1114300,MÚSICA - BANDOLIM,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,9,3,2,0,0,1,0,0
+2014,Capital,1114302,MÚSICA - REGÊNCIA DE BANDA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,8,6,0,2,2,0,0,0
+2015,Capital,1114302,MÚSICA - REGÊNCIA DE BANDA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,9,8,6,0,1,2,1,0,0
+2016,Capital,1114302,MÚSICA - REGÊNCIA DE BANDA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,9,11,6,2,1,2,1,0,0
+2017,Capital,1114302,MÚSICA - REGÊNCIA DE BANDA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,7,5,0,1,2,0,0,0
+2018,Capital,1114302,MÚSICA - REGÊNCIA DE BANDA,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,6,5,2,1,3,0,0,0
+2014,Capital,1127055,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,341,114,259,8,84,24,54,4,0
+2015,Capital,1127055,LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA,Licenciatura,Graduação Presencial,Cidade Universitária,377,92,303,8,87,37,34,3,0
+2014,Capital,1165450,MÚSICA - CAVAQUINHO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,4,2,4,0,2,0,0,0,0
+2015,Capital,1165450,MÚSICA - CAVAQUINHO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,5,5,3,0,1,2,0,0,0
+2016,Capital,1165450,MÚSICA - CAVAQUINHO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,7,4,5,0,2,2,0,0,0
+2017,Capital,1165450,MÚSICA - CAVAQUINHO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,3,5,0,1,2,1,0,0
+2018,Capital,1165450,MÚSICA - CAVAQUINHO,Bacharelado,Graduação Presencial,ESCOLA DE MÚSICA,8,6,4,1,1,3,1,0,0
+2014,Capital,1175204,ARTES VISUAIS - ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,63,40,52,5,12,7,4,0,0
+2015,Capital,1175204,ARTES VISUAIS - ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,86,40,52,2,21,25,7,2,0
+2016,Capital,1175204,ARTES VISUAIS - ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,114,40,74,3,38,30,8,2,0
+2017,Capital,1175204,ARTES VISUAIS - ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,136,31,96,8,29,25,15,0,0
+2018,Capital,1175204,ARTES VISUAIS - ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,147,41,97,10,34,30,15,5,0
+2014,Capital,1266924,LETRAS - LIBRAS,Bacharelado,Graduação Presencial,Cidade Universitária,20,38,16,0,20,4,0,0,0
+2015,Capital,1266924,LETRAS - LIBRAS,Bacharelado,Graduação Presencial,Cidade Universitária,47,58,35,0,28,9,3,0,0
+2016,Capital,1266924,LETRAS - LIBRAS,Bacharelado,Graduação Presencial,Cidade Universitária,60,30,39,0,16,13,5,3,0
+2017,Capital,1266924,LETRAS - LIBRAS,Bacharelado,Graduação Presencial,Cidade Universitária,61,30,43,0,9,11,6,1,0
+2018,Capital,1266924,LETRAS - LIBRAS,Bacharelado,Graduação Presencial,Cidade Universitária,74,75,56,5,20,10,8,0,0
+2014,Capital,1266925,LETRAS - LIBRAS,Licenciatura,Graduação Presencial,Cidade Universitária,48,88,43,0,48,5,0,0,0
+2015,Capital,1266925,LETRAS - LIBRAS,Licenciatura,Graduação Presencial,Cidade Universitária,105,109,54,0,57,40,11,0,0
+2016,Capital,1266925,LETRAS - LIBRAS,Licenciatura,Graduação Presencial,Cidade Universitária,122,34,89,0,28,27,6,0,0
+2017,Capital,1266925,LETRAS - LIBRAS,Licenciatura,Graduação Presencial,Cidade Universitária,130,31,92,0,14,27,11,0,0
+2018,Capital,1266925,LETRAS - LIBRAS,Licenciatura,Graduação Presencial,Cidade Universitária,145,66,110,15,26,16,18,1,0
+2014,Capital,1299976,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,Cidade Universitária,58,1,52,3,1,3,3,0,0
+2015,Capital,1299976,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,Cidade Universitária,84,8,72,8,3,8,3,1,0
+2016,Capital,1299976,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,Cidade Universitária,81,0,49,6,0,20,8,4,0
+2017,Capital,1299976,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,Cidade Universitária,84,0,66,9,0,12,3,3,0
+2018,Capital,1299976,LETRAS - PORTUGUÊS E ITALIANO,Licenciatura,Graduação Presencial,Cidade Universitária,102,1,76,6,0,14,9,3,0
+2014,Capital,1299978,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,Cidade Universitária,20,0,17,0,0,1,2,0,0
+2015,Capital,1299978,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,Cidade Universitária,27,0,16,3,0,6,2,3,0
+2016,Capital,1299978,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,Cidade Universitária,22,0,15,0,0,4,3,0,0
+2017,Capital,1299978,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,Cidade Universitária,26,0,22,2,0,2,1,1,0
+2018,Capital,1299978,LETRAS - PORTUGUÊS E GREGO,Licenciatura,Graduação Presencial,Cidade Universitária,40,2,31,2,1,7,2,0,0
+2014,Capital,1299979,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,Cidade Universitária,20,0,16,1,0,2,2,0,0
+2015,Capital,1299979,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,Cidade Universitária,21,0,14,2,0,3,2,2,0
+2016,Capital,1299979,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,Cidade Universitária,15,0,9,1,0,5,0,1,0
+2017,Capital,1299979,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,Cidade Universitária,30,0,23,3,0,4,2,1,0
+2018,Capital,1299979,LETRAS - PORTUGUÊS E HEBRAICO,Licenciatura,Graduação Presencial,Cidade Universitária,26,2,17,1,0,3,6,0,0
+2014,Capital,14341,ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,16,0,8,2,0,3,5,0,0
+2016,Capital,14341,ESCULTURA,Bacharelado,Graduação Presencial,Cidade Universitária,1,0,0,0,0,0,1,0,0

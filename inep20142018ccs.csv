@@ -1,0 +1,172 @@
+   ,  ,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
+2014,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.283,207,1.245,188,204,16,22,0,0
+2015,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.290,205,1.239,173,210,37,14,0,0
+2016,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.303,213,1.252,161,197,34,17,0,0
+2017,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.342,206,1.282,187,209,44,16,0,0
+2018,Capital,14359,MEDICINA,Bacharelado,Graduação Presencial,Cidade Universitária,1.360,217,1.302,198,221,44,14,0,0
+2014,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,442,113,379,53,98,28,34,1,0
+2015,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,454,109,357,62,94,67,30,0,0
+2016,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,454,96,341,67,91,84,28,1,0
+2017,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,467,106,401,62,103,40,25,1,0
+2018,Capital,14360,NUTRIÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,485,105,412,56,105,44,29,0,0
+2014,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,389,96,339,49,93,22,27,1,0
+2015,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,402,95,345,73,85,47,10,0,0
+2016,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,407,86,343,51,87,32,31,1,0
+2017,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,416,92,369,52,88,27,20,0,0
+2018,Capital,14361,ODONTOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,435,97,377,54,89,27,28,3,0
+2014,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.479,403,1.204,90,323,96,176,3,0
+2015,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.569,359,1.293,97,318,168,104,4,0
+2016,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.662,337,1.299,121,298,238,122,3,0
+2017,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.750,371,1.450,140,316,185,114,1,0
+2018,Capital,14369,FARMÁCIA,Bacharelado,Graduação Presencial,Cidade Universitária,1.821,424,1.496,134,332,148,175,2,0
+2014,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,241,45,165,19,27,36,38,2,0
+2015,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,224,56,150,9,33,56,18,0,0
+2016,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,234,46,154,11,32,50,28,2,0
+2017,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,235,68,175,22,37,44,15,1,0
+2018,Capital,14372,DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,228,70,165,15,28,35,26,2,0
+2014,Capital,14373,FISIOTERAPIA,Bacharelado,Graduação Presencial,Cidade Universitária,415,108,361,67,99,25,29,0,0
+2015,Capital,14373,FISIOTERAPIA,Bacharelado,Graduação Presencial,Cidade Universitária,415,101,350,62,94,40,23,2,0
+2016,Capital,14373,FISIOTERAPIA,Bacharelado,Graduação Presencial,Cidade Universitária,417,88,352,68,86,32,33,0,0
+2017,Capital,14373,FISIOTERAPIA,Bacharelado,Graduação Presencial,Cidade Universitária,410,88,353,68,89,26,30,1,0
+2018,Capital,14373,FISIOTERAPIA,Bacharelado,Graduação Presencial,Cidade Universitária,403,109,344,17,91,27,29,3,0
+2014,Capital,14376,FONOAUDIOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,412,97,351,48,92,29,28,4,0
+2015,Capital,14376,FONOAUDIOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,424,104,356,66,90,51,17,0,0
+2016,Capital,14376,FONOAUDIOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,427,91,343,59,86,48,36,0,0
+2017,Capital,14376,FONOAUDIOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,424,96,359,53,89,35,30,0,0
+2018,Capital,14376,FONOAUDIOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,434,114,375,65,92,31,28,0,0
+2014,Capital,23976,CIÊNCIAS BIOLÓGICAS - BIOLOGIA MARINHA,Bacharelado,Graduação Presencial,Cidade Universitária,37,7,26,4,5,6,4,1,0
+2015,Capital,23976,CIÊNCIAS BIOLÓGICAS - BIOLOGIA MARINHA,Bacharelado,Graduação Presencial,Cidade Universitária,37,0,26,7,0,6,5,0,0
+2016,Capital,23976,CIÊNCIAS BIOLÓGICAS - BIOLOGIA MARINHA,Bacharelado,Graduação Presencial,Cidade Universitária,32,5,24,9,1,6,2,0,0
+2017,Capital,23976,CIÊNCIAS BIOLÓGICAS - BIOLOGIA MARINHA,Bacharelado,Graduação Presencial,Cidade Universitária,34,4,27,8,4,3,4,0,0
+2018,Capital,23976,CIÊNCIAS BIOLÓGICAS - BIOLOGIA MARINHA,Bacharelado,Graduação Presencial,Cidade Universitária,29,1,22,7,0,6,1,0,0
+2014,Capital,26611,ENFERMAGEM E OBSTETRÍCIA,Bacharelado,Graduação Presencial,Cidade Universitária,649,168,535,99,150,41,70,3,0
+2015,Capital,26611,ENFERMAGEM E OBSTETRÍCIA,Bacharelado,Graduação Presencial,Cidade Universitária,640,170,534,78,151,60,44,2,0
+2016,Capital,26611,ENFERMAGEM E OBSTETRÍCIA,Bacharelado,Graduação Presencial,Cidade Universitária,661,153,536,95,145,76,47,2,0
+2017,Capital,26611,ENFERMAGEM E OBSTETRÍCIA,Bacharelado,Graduação Presencial,Cidade Universitária,678,198,565,82,157,68,44,1,0
+2018,Capital,26611,ENFERMAGEM E OBSTETRÍCIA,Bacharelado,Graduação Presencial,Cidade Universitária,722,167,585,95,167,80,51,6,0
+2014,Capital,29106,CIÊNCIAS BIOLÓGICAS - BIOLOGIA VEGETAL,Bacharelado,Graduação Presencial,Cidade Universitária,26,7,18,4,3,1,7,0,0
+2015,Capital,29106,CIÊNCIAS BIOLÓGICAS - BIOLOGIA VEGETAL,Bacharelado,Graduação Presencial,Cidade Universitária,18,7,16,4,0,1,1,0,0
+2016,Capital,29106,CIÊNCIAS BIOLÓGICAS - BIOLOGIA VEGETAL,Bacharelado,Graduação Presencial,Cidade Universitária,19,5,18,7,2,1,0,0,0
+2017,Capital,29106,CIÊNCIAS BIOLÓGICAS - BIOLOGIA VEGETAL,Bacharelado,Graduação Presencial,Cidade Universitária,20,11,19,4,3,0,1,0,0
+2018,Capital,29106,CIÊNCIAS BIOLÓGICAS - BIOLOGIA VEGETAL,Bacharelado,Graduação Presencial,Cidade Universitária,19,1,16,6,1,2,0,1,0
+2014,Capital,31957,CIÊNCIAS BIOLÓGICAS - ECOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,102,2,88,30,2,5,8,1,0
+2015,Capital,31957,CIÊNCIAS BIOLÓGICAS - ECOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,85,0,74,37,0,3,8,0,0
+2016,Capital,31957,CIÊNCIAS BIOLÓGICAS - ECOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,70,5,62,24,4,6,1,0,1
+2017,Capital,31957,CIÊNCIAS BIOLÓGICAS - ECOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,60,2,57,30,1,2,1,0,0
+2018,Capital,31957,CIÊNCIAS BIOLÓGICAS - ECOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,53,1,50,20,1,2,1,0,0
+2014,Capital,31958,CIÊNCIAS BIOLÓGICAS - ZOOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,60,6,50,17,1,4,6,0,0
+2015,Capital,31958,CIÊNCIAS BIOLÓGICAS - ZOOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,50,1,40,11,1,4,5,1,0
+2016,Capital,31958,CIÊNCIAS BIOLÓGICAS - ZOOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,44,5,30,15,5,13,1,0,0
+2017,Capital,31958,CIÊNCIAS BIOLÓGICAS - ZOOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,40,7,34,7,4,4,2,0,0
+2018,Capital,31958,CIÊNCIAS BIOLÓGICAS - ZOOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,36,1,32,12,0,2,2,0,0
+2014,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,64,4,56,10,2,2,5,1,0
+2015,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,64,7,58,19,0,2,4,0,0
+2016,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,68,5,64,17,0,3,1,0,0
+2017,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,63,2,57,24,2,3,2,1,0
+2018,Capital,31959,CIÊNCIAS BIOLÓGICAS - GENÉTICA,Bacharelado,Graduação Presencial,Cidade Universitária,52,0,47,18,0,4,1,0,0
+2014,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.082,223,804,111,192,80,196,2,0
+2015,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.013,196,777,108,182,171,65,0,0
+2016,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.031,189,721,109,185,245,63,2,0
+2017,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.088,245,840,93,214,173,74,1,0
+2018,Capital,44892,EDUCAÇÃO FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,1.129,213,810,112,202,132,186,1,0
+2014,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.173,231,865,113,211,92,212,4,0
+2015,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.140,229,877,94,219,165,97,0,1
+2016,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.158,207,855,118,201,215,88,0,0
+2017,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.193,251,935,148,218,145,112,1,0
+2018,Capital,44893,EDUCAÇÃO FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,1.156,275,901,136,217,123,127,5,0
+2014,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,576,215,491,57,183,43,39,3,0
+2015,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,632,150,515,70,146,61,54,2,0
+2016,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,652,146,518,76,144,96,35,3,0
+2017,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,701,158,573,80,156,65,59,4,0
+2018,Capital,44900,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação Presencial,Cidade Universitária,721,184,596,67,163,75,47,3,0
+2014,Capital,50066,ENFERMAGEM E OBSTETRÍCIA,Licenciatura,Graduação Presencial,PRAIA VERMELHA,73,17,17,1,12,19,37,0,0
+2015,Capital,50066,ENFERMAGEM E OBSTETRÍCIA,Licenciatura,Graduação Presencial,PRAIA VERMELHA,48,1,4,1,1,25,19,0,0
+2016,Capital,50066,ENFERMAGEM E OBSTETRÍCIA,Licenciatura,Graduação Presencial,PRAIA VERMELHA,29,0,1,1,0,21,7,0,0
+2017,Capital,50066,ENFERMAGEM E OBSTETRÍCIA,Licenciatura,Graduação Presencial,PRAIA VERMELHA,23,0,9,5,0,7,7,0,0
+2018,Capital,50066,ENFERMAGEM E OBSTETRÍCIA,Licenciatura,Graduação Presencial,PRAIA VERMELHA,11,0,2,2,0,1,8,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,,0,712,0,0,0,0,0,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,376,0,276,10,51,53,47,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - BOM JESUS DO ITABAPOANA,12,0,7,1,0,2,3,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,386,0,223,9,75,46,117,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),371,0,270,9,87,49,52,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,234,0,152,9,33,34,48,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,403,0,311,19,88,51,41,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,346,0,230,12,49,50,66,0,0
+2014,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,355,0,262,14,68,42,51,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,,0,716,0,0,0,0,0,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,435,0,21,9,98,368,46,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - BOM JESUS DO ITABAPOANA,8,0,1,1,0,7,0,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,381,0,34,4,105,300,47,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),426,0,37,7,106,352,37,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,264,0,20,4,63,211,33,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,463,0,38,20,103,374,51,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,372,0,20,8,95,315,37,0,0
+2015,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,406,0,28,11,108,327,51,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,,0,712,0,0,0,0,0,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,479,0,21,11,94,416,42,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - BOM JESUS DO ITABAPOANA,8,0,1,0,0,4,3,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,442,0,55,10,101,332,55,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),487,0,43,7,99,383,61,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,291,0,17,1,61,234,40,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,500,0,45,17,103,400,55,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,420,0,19,8,89,350,51,0,0
+2016,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,450,0,17,7,102,385,48,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,,0,796,0,0,0,0,0,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,535,0,295,2,100,169,71,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - BOM JESUS DO ITABAPOANA,6,0,2,0,0,3,1,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,487,0,296,13,106,131,60,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),545,0,342,11,110,126,76,0,1
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,320,0,154,6,55,116,50,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,545,0,313,15,108,163,69,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,460,0,258,4,89,116,86,0,0
+2017,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,516,0,284,8,109,146,86,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,,0,747,0,0,0,0,0,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - BOM JESUS DO ITABAPOANA,5,0,1,0,0,0,4,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,524,0,322,13,109,59,143,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),566,0,371,12,110,60,135,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,548,0,281,8,97,74,193,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,323,0,152,3,63,49,122,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,571,0,318,13,108,64,189,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,458,0,260,9,89,57,141,0,0
+2018,Capital,63484,CIÊNCIAS BIOLÓGICAS,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,520,0,285,12,100,59,176,0,0
+2014,Capital,112582,CIÊNCIAS BIOLÓGICAS: MODALIDADE MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,407,125,313,77,92,34,59,1,0
+2015,Capital,112582,CIÊNCIAS BIOLÓGICAS: MODALIDADE MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,390,108,291,82,90,52,47,0,0
+2016,Capital,112582,CIÊNCIAS BIOLÓGICAS: MODALIDADE MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,398,89,296,75,85,55,43,4,0
+2017,Capital,112582,CIÊNCIAS BIOLÓGICAS: MODALIDADE MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,404,109,318,49,87,47,38,1,0
+2018,Capital,112582,CIÊNCIAS BIOLÓGICAS: MODALIDADE MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,417,116,314,62,89,46,57,0,0
+2014,Capital,112584,CIÊNCIAS BIOLÓGICAS: BIOFÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,117,49,69,14,35,23,17,8,0
+2015,Capital,112584,CIÊNCIAS BIOLÓGICAS: BIOFÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,111,34,63,7,29,19,22,7,0
+2016,Capital,112584,CIÊNCIAS BIOLÓGICAS: BIOFÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,110,37,73,12,31,13,21,3,0
+2017,Capital,112584,CIÊNCIAS BIOLÓGICAS: BIOFÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,111,40,72,13,30,21,15,3,0
+2018,Capital,112584,CIÊNCIAS BIOLÓGICAS: BIOFÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,120,49,82,12,31,18,16,4,0
+2014,Capital,112586,CIÊNCIAS BIOLÓGICAS: MICROBIOLOGIA E IMUNOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,199,75,159,38,57,13,27,0,0
+2015,Capital,112586,CIÊNCIAS BIOLÓGICAS: MICROBIOLOGIA E IMUNOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,188,58,142,9,51,19,26,1,0
+2016,Capital,112586,CIÊNCIAS BIOLÓGICAS: MICROBIOLOGIA E IMUNOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,203,57,157,41,49,29,17,0,0
+2017,Capital,112586,CIÊNCIAS BIOLÓGICAS: MICROBIOLOGIA E IMUNOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,197,58,141,28,50,33,21,2,0
+2018,Capital,112586,CIÊNCIAS BIOLÓGICAS: MICROBIOLOGIA E IMUNOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,201,73,146,27,55,19,36,0,0
+2014,Capital,116836,TERAPIA OCUPACIONAL,Bacharelado,Graduação Presencial,Cidade Universitária,288,71,249,54,62,24,14,1,0
+2015,Capital,116836,TERAPIA OCUPACIONAL,Bacharelado,Graduação Presencial,Cidade Universitária,287,67,228,31,61,42,16,1,0
+2016,Capital,116836,TERAPIA OCUPACIONAL,Bacharelado,Graduação Presencial,Cidade Universitária,303,65,239,31,61,33,29,2,0
+2017,Capital,116836,TERAPIA OCUPACIONAL,Bacharelado,Graduação Presencial,Cidade Universitária,309,77,260,49,64,34,15,0,0
+2018,Capital,116836,TERAPIA OCUPACIONAL,Bacharelado,Graduação Presencial,Cidade Universitária,310,71,247,31,61,30,30,3,0
+2014,Capital,116838,SAÚDE COLETIVA,Bacharelado,Graduação Presencial,Cidade Universitária,140,59,97,12,43,16,26,1,0
+2015,Capital,116838,SAÚDE COLETIVA,Bacharelado,Graduação Presencial,Cidade Universitária,142,51,105,9,40,27,10,0,0
+2016,Capital,116838,SAÚDE COLETIVA,Bacharelado,Graduação Presencial,Cidade Universitária,160,48,105,20,39,23,31,1,0
+2017,Capital,116838,SAÚDE COLETIVA,Bacharelado,Graduação Presencial,Cidade Universitária,152,58,108,10,41,27,15,2,0
+2018,Capital,116838,SAÚDE COLETIVA,Bacharelado,Graduação Presencial,Cidade Universitária,168,67,100,28,43,20,47,1,0
+2014,Capital,314345,CIÊNCIAS BIOLÓGICAS,Bacharelado,Graduação Presencial,Cidade Universitária,157,0,0,0,0,0,1,156,0
+2014,Capital,1106731,TEORIA DA DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,57,26,35,0,19,10,12,0,0
+2015,Capital,1106731,TEORIA DA DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,62,27,41,2,16,12,8,1,0
+2016,Capital,1106731,TEORIA DA DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,72,28,47,1,21,17,7,1,0
+2017,Capital,1106731,TEORIA DA DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,84,37,60,0,21,14,6,4,0
+2018,Capital,1106731,TEORIA DA DANÇA,Bacharelado,Graduação Presencial,Cidade Universitária,96,31,69,5,22,19,6,2,0
+2014,Capital,1107284,DANÇA,Licenciatura,Graduação Presencial,Cidade Universitária,177,50,133,7,44,24,19,1,0
+2015,Capital,1107284,DANÇA,Licenciatura,Graduação Presencial,Cidade Universitária,194,43,150,4,43,31,12,1,0
+2016,Capital,1107284,DANÇA,Licenciatura,Graduação Presencial,Cidade Universitária,220,46,156,3,41,42,20,2,0
+2017,Capital,1107284,DANÇA,Licenciatura,Graduação Presencial,Cidade Universitária,250,58,189,13,50,43,16,2,0
+2018,Capital,1107284,DANÇA,Licenciatura,Graduação Presencial,Cidade Universitária,267,60,196,16,48,47,22,2,0
+2014,Capital,1125886,GASTRONOMIA,Bacharelado,Graduação Presencial,Cidade Universitária,162,61,137,0,52,18,7,0,0
+2015,Capital,1125886,GASTRONOMIA,Bacharelado,Graduação Presencial,Cidade Universitária,209,62,168,11,51,27,14,0,0
+2016,Capital,1125886,GASTRONOMIA,Bacharelado,Graduação Presencial,Cidade Universitária,231,52,189,14,47,33,9,0,0
+2017,Capital,1125886,GASTRONOMIA,Bacharelado,Graduação Presencial,Cidade Universitária,261,55,213,22,50,31,17,0,0
+2018,Capital,1125886,GASTRONOMIA,Bacharelado,Graduação Presencial,Cidade Universitária,281,68,225,24,58,39,17,0,0

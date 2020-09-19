@@ -1,0 +1,183 @@
+   ,  ,CO_CURSO,NO_CURSO,GRAU_ACADEMICO,NO_NIVEL,NO_LOCAL_OFERTA,TOTALALUNOS,VAGAST,MATT,CONCLT,INGR,MATTRANC,MATDESVINCULADA,MATTRANSFERIDO,MATFALECIDO
+2014,Capital,14323,FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,178,72,123,11,50,20,29,6,0
+2015,Capital,14323,FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,184,53,133,17,46,21,26,4,0
+2016,Capital,14323,FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,184,48,121,16,47,35,23,5,0
+2017,Capital,14323,FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,192,57,132,10,50,31,14,15,0
+2018,Capital,14323,FÍSICA,Bacharelado,Graduação Presencial,Cidade Universitária,196,46,133,19,43,25,32,6,0
+2014,Capital,14324,ASTRONOMIA,Bacharelado,Graduação Presencial,OBSERVATÓRIO DO VALONGO,88,31,70,4,17,4,13,1,0
+2015,Capital,14324,ASTRONOMIA,Bacharelado,Graduação Presencial,OBSERVATÓRIO DO VALONGO,96,37,69,5,20,10,12,5,0
+2016,Capital,14324,ASTRONOMIA,Bacharelado,Graduação Presencial,OBSERVATÓRIO DO VALONGO,95,25,62,3,21,22,9,2,0
+2017,Capital,14324,ASTRONOMIA,Bacharelado,Graduação Presencial,OBSERVATÓRIO DO VALONGO,109,44,72,8,26,15,17,5,0
+2018,Capital,14324,ASTRONOMIA,Bacharelado,Graduação Presencial,OBSERVATÓRIO DO VALONGO,105,43,81,6,25,13,10,1,0
+2014,Capital,14325,METEOROLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,197,59,139,3,49,20,33,5,0
+2015,Capital,14325,METEOROLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,206,44,152,4,45,29,24,1,0
+2016,Capital,14325,METEOROLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,222,55,152,8,43,44,24,2,0
+2017,Capital,14325,METEOROLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,234,77,166,14,43,35,31,2,0
+2018,Capital,14325,METEOROLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,230,64,154,19,40,46,27,3,0
+2014,Capital,14326,GEOGRAFIA,Licenciatura,Graduação Presencial,Cidade Universitária,313,63,232,17,60,28,52,1,0
+2015,Capital,14326,GEOGRAFIA,Licenciatura,Graduação Presencial,Cidade Universitária,306,53,236,21,50,52,18,0,0
+2016,Capital,14326,GEOGRAFIA,Licenciatura,Graduação Presencial,Cidade Universitária,320,46,214,27,46,77,28,1,0
+2017,Capital,14326,GEOGRAFIA,Licenciatura,Graduação Presencial,Cidade Universitária,328,72,249,29,59,49,30,0,0
+2018,Capital,14326,GEOGRAFIA,Licenciatura,Graduação Presencial,Cidade Universitária,327,56,253,28,52,44,30,0,0
+2014,Capital,14327,GEOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,279,55,251,26,58,10,17,1,0
+2015,Capital,14327,GEOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,290,52,254,28,52,29,7,0,0
+2016,Capital,14327,GEOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,307,49,266,37,51,33,8,0,0
+2017,Capital,14327,GEOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,311,33,272,44,49,22,16,1,0
+2018,Capital,14327,GEOLOGIA,Bacharelado,Graduação Presencial,Cidade Universitária,298,45,260,46,46,21,16,1,0
+2014,Capital,14328,MATEMÁTICA,Licenciatura,Graduação Presencial,Cidade Universitária,361,179,221,10,103,46,86,8,0
+2015,Capital,14328,MATEMÁTICA,Licenciatura,Graduação Presencial,Cidade Universitária,363,131,222,8,95,87,53,1,0
+2016,Capital,14328,MATEMÁTICA,Licenciatura,Graduação Presencial,Cidade Universitária,411,108,225,21,108,113,67,6,0
+2017,Capital,14328,MATEMÁTICA,Licenciatura,Graduação Presencial,Cidade Universitária,424,166,273,12,104,77,68,6,0
+2018,Capital,14328,MATEMÁTICA,Licenciatura,Graduação Presencial,Cidade Universitária,442,138,294,20,98,80,65,3,0
+2014,Capital,14330,ESTATÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,85,22,62,8,23,9,14,0,0
+2015,Capital,14330,ESTATÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,82,42,58,5,17,15,8,1,0
+2016,Capital,14330,ESTATÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,88,30,65,3,20,16,7,0,0
+2017,Capital,14330,ESTATÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,98,53,71,3,20,14,13,0,0
+2018,Capital,14330,ESTATÍSTICA,Bacharelado,Graduação Presencial,Cidade Universitária,103,23,82,7,21,10,10,1,0
+2014,Capital,14331,CIÊNCIAS ATUARIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,140,35,117,11,35,10,13,0,0
+2015,Capital,14331,CIÊNCIAS ATUARIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,155,45,126,7,37,16,13,0,0
+2016,Capital,14331,CIÊNCIAS ATUARIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,169,36,126,14,34,34,8,1,0
+2017,Capital,14331,CIÊNCIAS ATUARIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,179,58,144,8,30,16,17,2,0
+2018,Capital,14331,CIÊNCIAS ATUARIAIS,Bacharelado,Graduação Presencial,Cidade Universitária,184,33,135,12,32,26,19,4,0
+2014,Capital,14332,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,363,74,288,23,59,22,51,2,0
+2015,Capital,14332,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,345,61,249,16,54,23,31,42,0
+2016,Capital,14332,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,307,54,243,27,51,38,23,3,0
+2017,Capital,14332,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,307,64,254,48,53,25,23,5,0
+2018,Capital,14332,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,284,73,224,17,52,19,32,9,0
+2014,Capital,29307,FÍSICA MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,70,40,54,3,22,6,10,0,0
+2015,Capital,29307,FÍSICA MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,79,22,57,2,22,14,6,2,0
+2016,Capital,29307,FÍSICA MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,88,23,55,5,20,23,10,0,0
+2017,Capital,29307,FÍSICA MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,99,31,66,7,25,20,13,0,0
+2018,Capital,29307,FÍSICA MÉDICA,Bacharelado,Graduação Presencial,Cidade Universitária,110,45,82,6,31,7,20,1,0
+2014,Capital,44363,FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,349,126,206,12,75,56,81,6,0
+2015,Capital,44363,FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,346,99,217,14,76,63,61,5,0
+2016,Capital,44363,FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,333,77,202,19,67,74,53,4,0
+2017,Capital,44363,FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,342,101,230,9,79,68,38,6,0
+2018,Capital,44363,FÍSICA,Licenciatura,Graduação Presencial,Cidade Universitária,366,93,238,12,73,60,64,4,0
+2014,Capital,45204,QUÍMICA,Licenciatura,Graduação Presencial,Cidade Universitária,313,87,209,11,67,24,72,8,0
+2015,Capital,45204,QUÍMICA,Licenciatura,Graduação Presencial,Cidade Universitária,313,95,221,13,70,36,53,3,0
+2016,Capital,45204,QUÍMICA,Licenciatura,Graduação Presencial,Cidade Universitária,316,76,219,12,65,59,37,1,0
+2017,Capital,45204,QUÍMICA,Licenciatura,Graduação Presencial,Cidade Universitária,338,75,231,16,64,64,43,0,0
+2018,Capital,45204,QUÍMICA,Licenciatura,Graduação Presencial,Cidade Universitária,355,96,233,23,73,56,61,5,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,,0,775,0,0,0,0,0,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,80,0,43,0,20,19,18,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,251,0,147,2,72,47,57,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ITAPERUNA,85,0,51,1,19,14,20,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - MACAÉ - UNED MACAÉ - CEFET,109,0,50,0,21,23,36,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),263,0,167,2,67,55,41,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PARACAMBI - CENTRO TECNOLÓGICO UNIVERSITÁRIO DE PARACAMBI,128,0,74,1,21,18,36,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,267,0,166,2,66,48,53,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,178,0,100,0,56,31,47,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,101,0,45,4,10,11,45,0,0
+2014,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,146,0,78,2,45,27,41,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,,0,770,0,0,0,0,0,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,85,0,9,1,12,60,16,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,302,0,22,3,98,213,67,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ITAPERUNA,84,0,8,2,19,60,16,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - MACAÉ - UNED MACAÉ - CEFET,109,0,7,0,31,81,21,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),315,0,19,3,90,241,55,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PARACAMBI - CENTRO TECNOLÓGICO UNIVERSITÁRIO DE PARACAMBI,123,0,10,2,28,94,19,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,317,0,22,4,96,241,54,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,223,0,7,0,86,175,41,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,72,0,3,0,20,56,13,0,0
+2015,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,168,0,7,0,59,126,35,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,,0,750,0,0,0,0,0,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,81,0,2,1,13,57,22,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,327,0,17,1,91,236,74,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ITAPERUNA,85,0,8,2,20,53,24,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - MACAÉ - UNED MACAÉ - CEFET,154,0,6,0,64,114,34,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),340,0,20,0,83,244,76,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PARACAMBI - CENTRO TECNOLÓGICO UNIVERSITÁRIO DE PARACAMBI,127,0,9,1,24,88,30,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,352,0,19,3,90,262,71,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,256,0,5,0,72,187,64,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,83,0,7,0,23,52,24,0,0
+2016,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,192,0,8,0,56,139,45,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,,0,788,0,0,0,0,0,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,79,0,30,2,19,33,16,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,354,0,164,1,98,141,49,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ITAPERUNA,90,0,42,1,28,30,18,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - MACAÉ - UNED MACAÉ - CEFET,190,0,84,0,68,82,24,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),374,0,197,1,111,132,45,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PARACAMBI - CENTRO TECNOLÓGICO UNIVERSITÁRIO DE PARACAMBI,124,0,61,0,29,45,18,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,384,0,179,2,97,149,56,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,278,0,129,2,82,105,44,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,79,0,33,2,20,33,13,0,0
+2017,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,214,0,104,3,63,79,31,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,,0,920,0,0,0,0,0,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Consórcio CEDERJ - Duque de Caxias,402,0,180,4,98,55,167,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),424,0,205,4,99,54,165,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,82,0,34,1,21,16,32,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ITAPERUNA,91,0,33,1,21,15,43,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - MACAÉ - UNED MACAÉ - CEFET,223,0,91,1,55,35,97,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PARACAMBI - CENTRO TECNOLÓGICO UNIVERSITÁRIO DE PARACAMBI,132,0,68,1,29,21,43,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - CAMPO GRANDE - INST DE EDUC SARA KUBITSCHEK,426,0,189,1,99,65,172,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - TRÊS RIOS - ESCOLA MUNICIPAL WALTER FRANKLIN,85,0,35,1,23,11,39,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - VOLTA REDONDA - PÓLO PROFESSOR DARCY RIBEIRO,225,0,93,3,46,38,94,0,0
+2018,Capital,63486,FÍSICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,316,0,132,1,84,62,122,0,0
+2014,Capital,71061,MATEMÁTICA APLICADA,Bacharelado,Graduação Presencial,Cidade Universitária,110,29,87,20,29,5,16,2,0
+2015,Capital,71061,MATEMÁTICA APLICADA,Bacharelado,Graduação Presencial,Cidade Universitária,107,44,85,23,28,11,10,1,0
+2016,Capital,71061,MATEMÁTICA APLICADA,Bacharelado,Graduação Presencial,Cidade Universitária,112,31,75,14,30,24,10,3,0
+2017,Capital,71061,MATEMÁTICA APLICADA,Bacharelado,Graduação Presencial,Cidade Universitária,117,49,88,22,32,15,11,3,0
+2018,Capital,71061,MATEMÁTICA APLICADA,Bacharelado,Graduação Presencial,Cidade Universitária,117,32,83,13,27,15,18,1,0
+2014,Capital,85783,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,657,144,530,59,118,62,62,3,0
+2015,Capital,85783,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,662,117,520,34,111,69,69,4,0
+2016,Capital,85783,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,667,111,472,46,104,133,54,8,0
+2017,Capital,85783,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,698,122,546,36,127,98,48,6,0
+2018,Capital,85783,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Graduação Presencial,Cidade Universitária,727,132,551,43,116,115,56,5,0
+2014,Capital,116844,CIÊNCIAS MATEMÁTICAS E DA TERRA,Bacharelado,Graduação Presencial,Cidade Universitária,857,415,511,7,299,84,170,92,0
+2015,Capital,116844,CIÊNCIAS MATEMÁTICAS E DA TERRA,Bacharelado,Graduação Presencial,Cidade Universitária,887,358,499,4,285,137,164,87,0
+2016,Capital,116844,CIÊNCIAS MATEMÁTICAS E DA TERRA,Bacharelado,Graduação Presencial,Cidade Universitária,909,326,465,8,277,207,154,83,0
+2017,Capital,116844,CIÊNCIAS MATEMÁTICAS E DA TERRA,Bacharelado,Graduação Presencial,Cidade Universitária,948,416,568,6,276,131,171,78,0
+2018,Capital,116844,CIÊNCIAS MATEMÁTICAS E DA TERRA,Bacharelado,Graduação Presencial,Cidade Universitária,978,474,556,10,284,125,226,71,0
+2014,Capital,116846,CIÊNCIAS MATEMÁTICAS E DA TERRA - SENSORIAMENTO REMOTO E GEOPROCESSAMENTO,Bacharelado,Graduação Presencial,Cidade Universitária,29,51,29,0,17,0,0,0,0
+2015,Capital,116846,CIÊNCIAS MATEMÁTICAS E DA TERRA - SENSORIAMENTO REMOTO E GEOPROCESSAMENTO,Bacharelado,Graduação Presencial,Cidade Universitária,47,18,39,3,18,7,1,0,0
+2016,Capital,116846,CIÊNCIAS MATEMÁTICAS E DA TERRA - SENSORIAMENTO REMOTO E GEOPROCESSAMENTO,Bacharelado,Graduação Presencial,Cidade Universitária,54,11,42,9,11,11,0,1,0
+2017,Capital,116846,CIÊNCIAS MATEMÁTICAS E DA TERRA - SENSORIAMENTO REMOTO E GEOPROCESSAMENTO,Bacharelado,Graduação Presencial,Cidade Universitária,52,7,33,7,7,10,8,1,0
+2018,Capital,116846,CIÊNCIAS MATEMÁTICAS E DA TERRA - SENSORIAMENTO REMOTO E GEOPROCESSAMENTO,Bacharelado,Graduação Presencial,Cidade Universitária,45,12,34,4,9,7,4,0,0
+2016,Capital,116847,CIÊNCIAS MATEMÁTICAS E DA TERRA - CIÊNCIAS DA TERRA E PATRIMÔNIO NATURAL,Bacharelado,Graduação Presencial,Cidade Universitária,10,10,9,0,10,1,0,0,0
+2017,Capital,116847,CIÊNCIAS MATEMÁTICAS E DA TERRA - CIÊNCIAS DA TERRA E PATRIMÔNIO NATURAL,Bacharelado,Graduação Presencial,Cidade Universitária,15,5,12,2,5,2,0,1,0
+2018,Capital,116847,CIÊNCIAS MATEMÁTICAS E DA TERRA - CIÊNCIAS DA TERRA E PATRIMÔNIO NATURAL,Bacharelado,Graduação Presencial,Cidade Universitária,15,3,9,0,3,2,3,1,0
+2015,Capital,116848,CIÊNCIAS MATEMÁTICAS E DA TERRA - ANALISTA DE SUPORTE À DECISÃO,Bacharelado,Graduação Presencial,Cidade Universitária,9,25,9,0,9,0,0,0,0
+2016,Capital,116848,CIÊNCIAS MATEMÁTICAS E DA TERRA - ANALISTA DE SUPORTE À DECISÃO,Bacharelado,Graduação Presencial,Cidade Universitária,12,3,10,0,3,1,0,1,0
+2017,Capital,116848,CIÊNCIAS MATEMÁTICAS E DA TERRA - ANALISTA DE SUPORTE À DECISÃO,Bacharelado,Graduação Presencial,Cidade Universitária,23,12,21,0,12,2,0,0,0
+2018,Capital,116848,CIÊNCIAS MATEMÁTICAS E DA TERRA - ANALISTA DE SUPORTE À DECISÃO,Bacharelado,Graduação Presencial,Cidade Universitária,30,12,20,1,7,4,1,5,0
+2014,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,,0,268,0,0,0,0,0,0,0
+2014,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,88,0,49,0,14,15,24,0,0
+2014,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),44,0,39,0,42,0,5,0,0
+2014,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,18,0,17,0,18,0,1,0,0
+2014,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,195,0,114,0,52,27,54,0,0
+2015,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,,0,358,0,0,0,0,0,0,0
+2015,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,90,0,4,0,24,70,16,0,0
+2015,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),127,0,13,0,89,99,15,0,0
+2015,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,87,0,4,0,48,70,13,0,0
+2015,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,237,0,7,1,87,193,37,0,0
+2016,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,,0,358,0,0,0,0,0,0,0
+2016,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,93,0,20,2,16,54,19,0,0
+2016,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),194,0,34,1,81,139,21,0,0
+2016,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,115,0,16,0,39,91,8,0,0
+2016,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,274,0,59,0,68,177,38,0,0
+2017,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,,0,432,0,0,0,0,0,0,0
+2017,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,92,0,39,0,21,24,29,0,0
+2017,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),269,0,143,0,91,87,39,0,0
+2017,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,160,0,68,0,52,61,31,0,0
+2017,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,324,0,164,4,85,106,54,0,0
+2018,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,,0,454,0,0,0,0,0,0,0
+2018,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - NOVA IGUAÇU - PÓLO DO CEDERJ (ANTIGO FÓRUM),320,0,148,0,90,42,130,0,0
+2018,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - ANGRA DOS REIS,96,0,39,0,32,13,44,0,0
+2018,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,CONSÓRCIO CEDERJ - PIRAÍ - PÓLO DO CEDERJ,179,0,72,0,50,21,86,0,0
+2018,Capital,123365,QUÍMICA,Licenciatura,Graduação a Distância,Polo UAB - SAO GONCALO,353,0,177,2,88,39,137,0,0
+2014,Capital,314326,GEOGRAFIA,Bacharelado,Graduação Presencial,Cidade Universitária,259,58,202,46,57,24,33,0,0
+2015,Capital,314326,GEOGRAFIA,Bacharelado,Graduação Presencial,Cidade Universitária,247,46,188,37,47,32,27,0,0
+2016,Capital,314326,GEOGRAFIA,Bacharelado,Graduação Presencial,Cidade Universitária,258,54,184,46,56,41,32,1,0
+2017,Capital,314326,GEOGRAFIA,Bacharelado,Graduação Presencial,Cidade Universitária,236,67,166,19,51,40,28,2,0
+2018,Capital,314326,GEOGRAFIA,Bacharelado,Graduação Presencial,Cidade Universitária,247,64,179,30,53,31,37,0,0
+2014,Capital,314328,MATEMÁTICA,Bacharelado,Graduação Presencial,Cidade Universitária,87,45,62,3,27,8,16,1,0
+2015,Capital,314328,MATEMÁTICA,Bacharelado,Graduação Presencial,Cidade Universitária,93,40,59,7,26,19,12,3,0
+2016,Capital,314328,MATEMÁTICA,Bacharelado,Graduação Presencial,Cidade Universitária,98,33,58,5,26,26,12,2,0
+2017,Capital,314328,MATEMÁTICA,Bacharelado,Graduação Presencial,Cidade Universitária,111,61,69,14,30,21,15,6,0
+2018,Capital,314328,MATEMÁTICA,Bacharelado,Graduação Presencial,Cidade Universitária,108,36,63,10,27,23,20,2,0
+2014,Capital,1125887,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,29,39,24,0,25,1,2,2,0
+2015,Capital,1125887,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,92,61,83,5,63,5,3,1,0
+2016,Capital,1125887,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,106,24,83,5,21,12,10,1,0
+2017,Capital,1125887,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,115,27,94,8,24,9,12,0,0
+2018,Capital,1125887,QUÍMICA,Bacharelado,Graduação Presencial,Cidade Universitária,125,35,108,9,30,13,3,1,0
